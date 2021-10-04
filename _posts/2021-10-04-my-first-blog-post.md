@@ -1,5 +1,4 @@
-
 ---
-title: "Welcome everyone!"
-date: 2002-08-22
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
